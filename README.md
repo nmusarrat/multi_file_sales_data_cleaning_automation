@@ -18,6 +18,7 @@ The goal is to simulate a real-world client scenario where data comes from diffe
   - Kept missing dates unchanged
 - Removed duplicate rows
 - Fixed formatting issues
+- handled error
 
 ---
 
